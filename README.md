@@ -12,6 +12,12 @@
 ## 2. Параллельные вычисления на CUDA (C)
 * [Задача](lab2/task.pdf) обжатия надувной пневматической конструкции
 
-![Alt Text](lab2/scatter.gif)
+![Визуализация](lab2/scatter.gif)
 
 Графики по результатам прогонов можно найти [здесь](lab2/cuda_visualization.ipynb).
+
+* [Задача](lab3/task.pdf) N тел
+
+![Визуализация](lab3/scatter.gif)
+
+Графики по результатам прогонов можно найти [здесь](lab3/cuda_visualization.ipynb).
